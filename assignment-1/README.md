@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 - FORMS USING HTML, CSS & JS
 
 This assignment focuses on creating a simple web application that determines the generation a user belongs to based on their age. The application takes input from the user, specifically their username and age, and displays a friendly message indicating their generation.
 
