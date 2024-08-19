@@ -15,5 +15,3 @@ This assignment demonstrates the use of HTML forms, CSS styling, and JavaScript 
 This assignment is a basic to-do list application designed to demonstrate core web development techniques, such as form handling, dynamic updates, and event-driven programming. The application allows users to easily add tasks to a list that updates in real-time without requiring page reloads.
 
 ---
-
-This repository serves as a collection of foundational web development assignments, covering key concepts like form handling, dynamic content updates, and JavaScript-based interactivity. Each project showcases essential programming techniques needed for building interactive web applications.
